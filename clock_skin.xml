@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>.img95.png</name>
+	</drawable>
+	<drawable>
+		<name>time.xml</name>
+		<arraytype>6</arraytype>
+	</drawable>
+<!--COMMENTED BY ClockSkinMaker
+<metadata gui='rra' version='1.4.8.0'/>
+-->
+</clockskin>
