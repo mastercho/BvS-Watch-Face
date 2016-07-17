@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <clockskin>
 	<drawable>
-		<name>.img95.png</name>
+		<name>img95.png</name>
 	</drawable>
 	<drawable>
 		<name>time.xml</name>
